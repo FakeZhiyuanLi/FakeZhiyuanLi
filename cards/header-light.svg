@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="214" viewBox="0 0 840 214" role="img" aria-label="Zhiyuan Li: applied AI, agent memory, LLM evals and data pipelines">
+<title>Zhiyuan Li: applied AI, agent memory, LLM evals and data pipelines</title>
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; letter-spacing: 0.06em; }
+  .ink { fill: #1f2328; }
+  .muted { fill: #656d76; }
+  .beet { fill: #a3195b; }
+  @keyframes sweep { from { transform: translateX(0); } to { transform: translateX(370px); } }
+  .sweep { animation: sweep 9s linear infinite; }
+  @keyframes clear { 0%, 70%, 100% { opacity: 1; } 80%, 90% { opacity: 0.25; } }
+  .clear { animation: clear 4s steps(1) infinite; }
+  @media (prefers-reduced-motion: reduce) { .sweep, .clear { animation: none; } }
+</style>
+<rect x="0" y="0" width="840" height="1" fill="#d0d7de"/><rect x="0" y="0" width="28" height="2" fill="#a3195b"/>
+<text x="20" y="70" class="sans ink" font-size="42">Zhiyuan <tspan class="beet">Li</tspan></text>
+<text x="20" y="104" class="sans muted" font-size="16">Applied AI: agent memory, LLM evals, and the pipelines that feed them.</text>
+<rect x="20" y="134" width="800" height="1" fill="#eaeef2"/>
+<text x="20" y="166" class="mono muted" font-size="10.5">NOW</text>
+<text x="20" y="190" class="sans ink" font-size="15">AI engineer intern, Unika Health</text>
+<text x="287" y="166" class="mono muted" font-size="10.5">STUDYING</text>
+<text x="287" y="190" class="sans ink" font-size="15">Computer science, UC Irvine ’28</text>
+<text x="553" y="166" class="mono muted" font-size="10.5">ALSO</text>
+<text x="553" y="190" class="sans ink" font-size="15">Vice president, Tetris at UCI</text>
+<rect x="730.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="739.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="739.0" y="81.0" width="7.5" height="7.5" fill="#656d76"/><rect x="748.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="748.0" y="81.0" width="7.5" height="7.5" fill="#656d76"/><rect x="766.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="775.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="775.0" y="81.0" width="7.5" height="7.5" fill="#656d76"/><rect x="775.0" y="72.0" width="7.5" height="7.5" fill="#656d76"/><rect x="784.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="784.0" y="81.0" width="7.5" height="7.5" fill="#656d76"/><rect x="793.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="802.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/><rect x="802.0" y="81.0" width="7.5" height="7.5" fill="#656d76"/><rect x="811.0" y="90.0" width="7.5" height="7.5" fill="#656d76"/>
+<g class="clear"><rect x="730.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="739.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="748.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="757.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="766.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="775.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="784.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="793.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="802.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/><rect x="811.0" y="99.0" width="7.5" height="7.5" fill="#a3195b"/></g>
+</svg>
